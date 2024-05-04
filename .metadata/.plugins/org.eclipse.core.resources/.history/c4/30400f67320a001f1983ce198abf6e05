@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module QuanLyKhoHang {
+	requires java.desktop;
+}
